@@ -19,6 +19,8 @@
 ![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Abdulla-Shakib&theme=city_light&hide_border=false)<br/>
 ---
 <!-- [![](https://visitcount.itsvg.in/api?id=Abdulla-Shakib&icon=2&color=6)](https://visitcount.itsvg.in) -->
 
