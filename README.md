@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🚀 Hey there, I'm Abdulla Shakib!  
 🔭 I’m currently working at Unipuller Ltd.<br>🌱 I’m currently learning Laravel<br>💬 Ask me about Laravel
 
 ## 🌐 Socials:
@@ -7,15 +7,17 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/your-userID/your-username)
 
 # 💻 Tech Stack:
-### Programming Languages:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+**Languages:**  
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  
 
-### Frameworks:
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
+**Frameworks:**  
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)  
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abdulla-Shakib&theme=city_light&hide_border=false)<br/>
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
 ---
 <!-- [![](https://visitcount.itsvg.in/api?id=Abdulla-Shakib&icon=2&color=6)](https://visitcount.itsvg.in) -->
